@@ -39,7 +39,6 @@ export default function Quiz() {
         <Box display={'flex'} justifyContent={'center'}>
           {/* <Button onClick={back} size='xs'><Icon as={MdOutlineNavigateBefore}></Icon></Button> */}
           <Box mx={5} pb={3} fontSize={14}><b>QUESTION {questions[quest].id + 1}</b><br/></Box>
-          <Button onClick={next} fontSize={10} size='xs'>{buttonName}</Button>
         </Box>
         <Center>
           <Image borderRadius={20} maxH={300} src={questions[quest].img}></Image>
@@ -55,6 +54,7 @@ export default function Quiz() {
             )
           })}
         </Box>
+        <Button my={5} onClick={next} fontSize={12} size='md'>{buttonName}</Button>
       </Box>
     </Center>
   )
