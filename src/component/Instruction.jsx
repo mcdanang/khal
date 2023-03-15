@@ -6,8 +6,8 @@ export default function Instruction() {
       <AccordionItem>
         <h2>
           <AccordionButton>
-            <Box as="span" flex='1' textAlign='center' fontFamily={'Roboto'} fontSize={20}>
-              <b>Instruction</b>
+            <Box as="span" flex='1' textAlign='center' fontFamily={'Roboto'} fontSize={16}>
+              Instruction
             </Box>
             <AccordionIcon />
           </AccordionButton>
