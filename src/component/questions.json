@@ -1,0 +1,178 @@
+[
+  {
+    "id": 0,
+    "img": "./assets/Biggby Coffee.jpeg",
+    "option": [
+      "Tous Les Jours",
+      "Richeese Factory",
+      "Biggby Coffee",
+      "Starbucks"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 1,
+    "img": "./assets/Bogor.jpeg",
+    "option": [
+      "Bogor",
+      "Bandung",
+      "BSD",
+      "Depok"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "img": "./assets/Gedung Pewayangan Kautaman.jpeg",
+    "option": [
+      "Gedung Pewayangan Kariaman",
+      "Gedung Serbaguna TMII",
+      "Gedung Pertemuan PUSPIPTEK",
+      "Gedung Pewayangan Kautaman"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3,
+    "img": "./assets/Gelora Bung Karno.jpeg",
+    "option": [
+      "Istora Senayan",
+      "Taman Kota",
+      "Gelora Bung Karno",
+      "JIS"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "img": "./assets/Gudang Pertemuan Puspiptek.jpeg",
+    "option": [
+      "Gedung Pewayangan Kariaman",
+      "Gedung Serbaguna TMII",
+      "Gedung Pertemuan PUSPIPTEK",
+      "Gedung Pewayangan Kautaman"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "img": "./assets/Haka Dimsum.jpeg",
+    "option": [
+      "Haka Dimsum Blok M",
+      "Haka Dimsum Kemang",
+      "Haka Dimsum Bintaro",
+      "Haka Dimsum Depok"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "img": "./assets/Hutan Kota GBK.jpeg",
+    "option": [
+      "Taman Kota 1 BSD",
+      "Taman Kota 2 BSD",
+      "Taman Kota 3 BSD",
+      "Hutan Kota Gelora Bung Karno"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7,
+    "img": "./assets/Istora Senayan.jpeg",
+    "option": [
+      "Istora Senayan",
+      "Taman Kota",
+      "Gelora Bung Karno",
+      "JIS"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "img": "./assets/JIEXPO.jpeg",
+    "option": [
+      "Istora Senayan",
+      "JIEXPO",
+      "ICE BSD",
+      "JIS"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "img": "./assets/KA Bandara.jpeg",
+    "option": [
+      "KRL",
+      "MRT",
+      "Argo Parahyangan ",
+      "KA Bandara"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 10,
+    "img": "./assets/Petak Enam.jpeg",
+    "option": [
+      "Petak Empat",
+      "Petak Enam",
+      "Petak Delapan",
+      "Petak Sembilan"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "img": "./assets/Sate Sambas.jpeg",
+    "option": [
+      "Sate Taichan",
+      "Sate Madura",
+      "Sate Sambas",
+      "Sate Maranggi"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 12,
+    "img": "./assets/Senayan Park.jpeg",
+    "option": [
+      "Senayan Park",
+      "Senayan City",
+      "Plaza Senayan",
+      "Sentul City"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "img": "./assets/Taman Ismail Marzuki.jpeg",
+    "option": [
+      "Roh Project",
+      "Sarinah",
+      "Taman Mini Indonesia Indah",
+      "Taman Ismail Marzuki"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 14,
+    "img": "./assets/Kopi Daong Bogor.jpeg",
+    "option": [
+      "Kopi Doang Bogor",
+      "Kopi Daong Bogor",
+      "Kafe Daong Bogor",
+      "Kafe Hutan Pinus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "img": "./assets/Time Zone Gancy.jpeg",
+    "option": [
+      "Time Zone Gancy",
+      "Time Zone Gancit ",
+      "Time Zone Gandaria",
+      "Time Zone Darcit "
+    ],
+    "answer": 1
+  }
+]
